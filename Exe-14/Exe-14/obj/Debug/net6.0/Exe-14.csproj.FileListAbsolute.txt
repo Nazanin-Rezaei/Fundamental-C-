@@ -1,0 +1,15 @@
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\bin\Debug\net6.0\Exe-14.exe
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\bin\Debug\net6.0\Exe-14.deps.json
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\bin\Debug\net6.0\Exe-14.runtimeconfig.json
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\bin\Debug\net6.0\Exe-14.dll
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\bin\Debug\net6.0\ref\Exe-14.dll
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\bin\Debug\net6.0\Exe-14.pdb
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\obj\Debug\net6.0\Exe-14.csproj.AssemblyReference.cache
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\obj\Debug\net6.0\Exe-14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\obj\Debug\net6.0\Exe-14.AssemblyInfoInputs.cache
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\obj\Debug\net6.0\Exe-14.AssemblyInfo.cs
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\obj\Debug\net6.0\Exe-14.csproj.CoreCompileInputs.cache
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\obj\Debug\net6.0\Exe-14.dll
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\obj\Debug\net6.0\ref\Exe-14.dll
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\obj\Debug\net6.0\Exe-14.pdb
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-14\Exe-14\obj\Debug\net6.0\Exe-14.genruntimeconfig.cache

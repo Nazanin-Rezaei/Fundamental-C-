@@ -1,0 +1,15 @@
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\bin\Debug\net6.0\Exe-Operator Overloading.exe
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\bin\Debug\net6.0\Exe-Operator Overloading.deps.json
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\bin\Debug\net6.0\Exe-Operator Overloading.runtimeconfig.json
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\bin\Debug\net6.0\Exe-Operator Overloading.dll
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\bin\Debug\net6.0\ref\Exe-Operator Overloading.dll
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\bin\Debug\net6.0\Exe-Operator Overloading.pdb
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\obj\Debug\net6.0\Exe-Operator Overloading.csproj.AssemblyReference.cache
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\obj\Debug\net6.0\Exe-Operator Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\obj\Debug\net6.0\Exe-Operator Overloading.AssemblyInfoInputs.cache
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\obj\Debug\net6.0\Exe-Operator Overloading.AssemblyInfo.cs
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\obj\Debug\net6.0\Exe-Operator Overloading.csproj.CoreCompileInputs.cache
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\obj\Debug\net6.0\Exe-Operator Overloading.dll
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\obj\Debug\net6.0\ref\Exe-Operator Overloading.dll
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\obj\Debug\net6.0\Exe-Operator Overloading.pdb
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-Operator Overloading\Exe-Operator Overloading\obj\Debug\net6.0\Exe-Operator Overloading.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\bin\Debug\net6.0\Exe-2-Class.exe
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\bin\Debug\net6.0\Exe-2-Class.deps.json
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\bin\Debug\net6.0\Exe-2-Class.runtimeconfig.json
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\bin\Debug\net6.0\Exe-2-Class.dll
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\bin\Debug\net6.0\ref\Exe-2-Class.dll
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\bin\Debug\net6.0\Exe-2-Class.pdb
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\obj\Debug\net6.0\Exe-2-Class.csproj.AssemblyReference.cache
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\obj\Debug\net6.0\Exe-2-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\obj\Debug\net6.0\Exe-2-Class.AssemblyInfoInputs.cache
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\obj\Debug\net6.0\Exe-2-Class.AssemblyInfo.cs
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\obj\Debug\net6.0\Exe-2-Class.csproj.CoreCompileInputs.cache
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\obj\Debug\net6.0\Exe-2-Class.dll
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\obj\Debug\net6.0\ref\Exe-2-Class.dll
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\obj\Debug\net6.0\Exe-2-Class.pdb
+C:\Users\zahra\Desktop\Visual Studio Projects\Fundamental-C-\Exe-2-Class\Exe-2-Class\obj\Debug\net6.0\Exe-2-Class.genruntimeconfig.cache
